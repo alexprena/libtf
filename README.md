@@ -1,1 +1,2 @@
-# my own lib of functions
+#libft
+my own lib of functions
